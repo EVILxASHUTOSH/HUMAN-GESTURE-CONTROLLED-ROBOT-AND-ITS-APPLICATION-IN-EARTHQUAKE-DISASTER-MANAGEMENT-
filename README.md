@@ -73,4 +73,4 @@ Distributed under the MIT License. See LICENSE for more information.
 ## Contact
 @EVILxASHUTOSH-dearashutoshmishra2002@gmail.com
 
-Project link: 
+Project link: https://github.com/EVILxASHUTOSH/HUMAN-GESTURE-CONTROLLED-ROBOT-AND-ITS-APPLICATION-IN-EARTHQUAKE-DISASTER-MANAGEMENT-
